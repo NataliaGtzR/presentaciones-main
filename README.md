@@ -24,6 +24,12 @@ Me llamo Natalia Gutiérrez y estudio en la facultad de Informática de la UAQ
 
 > El tiempo no es oro, el oro no vale nada. El tiempo es vida.
 
+# Mis recomendaciones de películas
+
+- Aventura en Alaska
+- The Grand Budapest Hotel
+- Lady Bird
+
 ## Código
 
 ```javascript
