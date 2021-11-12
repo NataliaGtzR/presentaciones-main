@@ -1,4 +1,4 @@
-# Bienvenide a mi perfil
+# Bienvenido a mi perfil
 
 Me llamo Natalia Gutiérrez y estudio en la facultad de Informática de la UAQ
 
@@ -12,6 +12,9 @@ Me llamo Natalia Gutiérrez y estudio en la facultad de Informática de la UAQ
     - Brooklyn 99
     - Friends
 - Esuchar música
+    - Armenia
+    - Caloncho
+    - Sabino
 
 ## Mi Mascota
 
