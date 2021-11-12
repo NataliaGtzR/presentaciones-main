@@ -22,7 +22,7 @@ Me llamo Natalia Gutiérrez y estudio en la facultad de Informática de la UAQ
 
 ## Mi quote favorita
 
-> Divide y vencerás
+> El tiempo no es oro, el oro no vale nada. El tiempo es vida.
 
 ## Código
 
